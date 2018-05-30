@@ -1,0 +1,25 @@
+{
+  "CERT2": {
+    "AppUrl": "https://cert2-advance.lexis.com/",
+    "ServiceUrl": "",
+    "WAM": "CDC1",
+    "Logins": {
+      "default": {
+        "Username": "icsall.au",
+        "Password": "Pass123!",
+        "PermId": "urn:user:CA184955541"
+      },
+      "au": {
+        "Username": "icsall.au",
+        "Password": "Pass123!",
+        "PermId": "urn:user:CA184955541"
+      }
+    }
+  },
+  "CERT7": {
+    "AppUrl": "https://cert7-advance.lexis.com/",
+    "ServiceUrl": "",
+    "WAM": "CDC13",
+    "Logins": {}
+  }
+}
